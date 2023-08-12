@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "999663222244",
+    "project_id": "alihost-786d5",
+    "storage_bucket": "alihost-786d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999663222244:android:122c90172ebe601cdf9bf1",
+        "android_client_info": {
+          "package_name": "com.khriscod.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999663222244-mkdb4j7774eslbhca2qr81o5pngkuuvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxbGkwq-LeZ4fkLF84QBvU72hvitKnmrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999663222244-mkdb4j7774eslbhca2qr81o5pngkuuvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
